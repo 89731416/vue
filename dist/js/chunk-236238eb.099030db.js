@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-236238eb"],{"0858":function(n,c,e){},"3c66":function(n,c,e){"use strict";var s=e("0858"),t=e.n(s);t.a},"7b3a":function(n,c,e){"use strict";e.r(c);var s=function(){var n=this,c=n.$createElement,e=n._self._c||c;return e("div",{staticClass:"css-box"},[n._v(" jiushigedemo 就是demo2 页面 ")])},t=[],i={props:{}},o=i,u=(e("3c66"),e("2877")),a=Object(u["a"])(o,s,t,!1,null,"079ddd4c",null);c["default"]=a.exports}}]);
-//# sourceMappingURL=chunk-236238eb.099030db.js.map

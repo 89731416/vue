@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-3bfda958"],{"21dc":function(e,c,n){"use strict";n.r(c);var s=function(){var e=this,c=e.$createElement,n=e._self._c||c;return n("div",{staticClass:"css-box"},[e._v(" jiushigedemo 就是demo1 页面 ")])},t=[],i={props:{}},o=i,u=(n("29e8"),n("2877")),a=Object(u["a"])(o,s,t,!1,null,"6bb0ee48",null);c["default"]=a.exports},"29e8":function(e,c,n){"use strict";var s=n("3cc6"),t=n.n(s);t.a},"3cc6":function(e,c,n){}}]);
-//# sourceMappingURL=chunk-3bfda958.d9b7326d.js.map
